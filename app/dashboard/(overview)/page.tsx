@@ -18,7 +18,7 @@ export default async function Page() {
 
   // console.log(revenue);
   return (
-    <main>
+    <main >
       <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
         Dashboard
       </h1>
